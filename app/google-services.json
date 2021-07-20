@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "805938082829",
+    "firebase_url": "https://numeric-hall-278308.firebaseio.com",
+    "project_id": "numeric-hall-278308",
+    "storage_bucket": "numeric-hall-278308.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805938082829:android:166d7bab1ff23b49665144",
+        "android_client_info": {
+          "package_name": "com.origino.iitjee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805938082829-um16tv699na24hi4dg52le5gcuvgdh97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6pABkqc-tyeri2P_s2wVTwK12Zri898I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805938082829-um16tv699na24hi4dg52le5gcuvgdh97.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
